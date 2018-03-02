@@ -1,0 +1,16 @@
+/* Stay Whimsical */
+  Name: Karen Castelletti
+  Twitter: @kcastelle
+  Location: New York, NY, USA
+
+  Name: Pablo Meier
+  Site: https://morepablo.com
+  Twitter: @SrPablo
+  Location: New York, NY, USA
+
+  Name: Sara Drakeley
+  Location: New York, NY, USA
+
+/* Site */
+  Made with: Fleaswallow
+  in turn baked with: Vim, OCaml

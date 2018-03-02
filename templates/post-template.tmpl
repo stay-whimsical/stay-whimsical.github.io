@@ -1,0 +1,40 @@
+{% extends "./templates/base.tmpl" %}
+
+{% block header %}
+    <title>{{title}}</title>
+    <meta name="author" content="{{author}}">
+    <meta name="keywords" content="Pablo Meier, {{keywords_list}}">
+    
+    <meta name="description" content="{{description_abridged}}">
+    <meta property="og:description" content="{{og_description}}">
+
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:image" content="{{og_image}}">
+    
+    <meta property="og:url" content="{{full_uri}}">
+    <link rel="canonical" href="{{full_uri}}">
+    
+    <meta property="og:type" content="article">
+    <link ref="alternate" type="application/rss+xml" href="{{rss_feed_uri}}" title="RSS Feed">
+
+    <meta name="label1" value="Read time" />
+    <meta name="data1" value="{{reading_time}} min 🕑" />
+{% endblock %}
+
+{% block main %}
+      <article>
+        <header>
+          <h1>{{title}}</h1>
+          <p>{{formatted_date}} :: Tagged under:{% for tag in tags %} <a href="{{tag.url}}">{{tag.name}}</a>{% endfor %}. ⏰ {{reading_time}} minutes.</p>
+          </header>
+        {{content | safe}}
+        <footer>
+        	<div id="nav-links">
+        	  <ul>
+        	  {% if link_to_newer %}<li id="next">&larr; <a href="{{link_to_newer.url}}">{{link_to_newer.name}}</a></li>{% endif %}
+        	  {% if link_to_older %}<li id="prev"><a href="{{link_to_older.url}}">{{link_to_older.name}}</a> &rarr;</li>{% endif %}
+        	  </ul>
+        	</div>
+        </footer>
+      </article>
+{% endblock %}
