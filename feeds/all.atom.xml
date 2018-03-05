@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Stay Whimsical!: all</title>
+ <link rel="self" href="https://stay-whimsical.com/feeds/all.atom.xml" />
+ <link href="https://stay-whimsical.com/archives.html" />
+ <id>urn:https-stay-whimsical-com:-archives-html</id>
+ <updated>2018-03-05T17:11:37</updated>
+ 
+ <entry>
+  <title type="text">We have a site!</title>
+  <link rel="alternate" href="https://stay-whimsical.com/2018/03/we-have-a-site.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:https-stay-whimsical-com:-2018-03-we-have-a-site-html</id>
+  <published>2018-03-03T01:53:52</published>
+  <updated>2018-03-03T01:53:52</updated>
+  <author>
+   <name>Stay Whimsical</name>
+  </author>
+  <content type="html">
+    &lt;p&gt;We have a site now! It does as little as possible, on purpose.&lt;/p&gt;
+
+  </content>
+ </entry>
+ 
+</feed>

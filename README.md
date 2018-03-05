@@ -4,6 +4,10 @@ Because it's hard work to stay whimsical.
 
 ## Installation
 
+First, since this is built on [GitHub Pages][1], `master` branch is the output
+of the build itself (except for this README), so switch to `source` branch to
+see the sources.
+
 This is built on [Fleaswallow][2]. We'll see how long it lasts.
 
 Get a working binary of it (I'll help with this, eventually I'll have it easy to
@@ -21,6 +25,10 @@ and it should build the whole site in `build`.
 
 Running `fleaswallow -n <Blog post title>` will create a new textfile in
 `posts/`. When you rebuild the site, it should show up at the top of the feed!
+
+Alternatively, just open a new text file in `posts` that follows the
+`yyyy-mm-dd-<title>.md` convention, with the three metadata fields that's in
+the other one.
 
 #### Add a new static page
 

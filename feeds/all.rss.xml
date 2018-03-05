@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>Stay Whimsical!: all</title>
+  <description>Posts from Stay Whimsical! tagged as: all</description>
+  <link>https://stay-whimsical.com/archives.html</link>
+  <lastBuildDate>2018-03-05T17:11:37</lastBuildDate>
+  <pubDate>2018-03-05T17:11:37</pubDate>
+  <ttl>1800</ttl>
+ 
+  <item>
+   <title>We have a site!</title>
+   <link>https://stay-whimsical.com/2018/03/we-have-a-site.html?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:https-stay-whimsical-com:-2018-03-we-have-a-site-html</guid>
+   <pubDate>2018-03-03T01:53:52</pubDate>
+   <author>Stay Whimsical</author>
+   <description>
+    &lt;p&gt;We have a site now! It does as little as possible, on purpose.&lt;/p&gt;
+
+   </description>
+  </item>
+ 
+</channel>
+</rss>
