@@ -2,7 +2,10 @@
 
 Stay Whimsical is Karen, Sara, and [Pablo.][1] We're hackers who love magic and
 stories and were given the advice to "stay whimsical" by a marker-bearing saint
-who visited a barely-functioning [Screamchess][2].
+who visited our major first project, a barely-functioning [Screamchess][2].
+
+We all work full-time as professionals in software of different stripes,
+currently situation in the greater New York area.
 
 ## THINGS WE LIKE
 
@@ -14,8 +17,9 @@ who visited a barely-functioning [Screamchess][2].
 ## THAT WHICH WE DETEST
 
 * Art
+* Defensive irony
 * Status jostling
 
    [1]: https://morepablo.com
    [2]: /screamchess.html
-   [3]: https://www.instagram.com/p/Bfo0BuCHdj9NcuroKpFAEj5CFucpN3tXTWBaiU0/?taken-by=sdrakeley
+   [3]: https://www.instagram.com/p/Bfo0BuCHdj9NcuroKpFAEj5CFucpN3tXTWBaiU0/

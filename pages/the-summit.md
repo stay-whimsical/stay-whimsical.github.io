@@ -1,6 +1,30 @@
 # THE SUMMIT
 
-Some got this in their email in mid-September:
+**Represent your home planet for an intergalactic peace summit.** 
+
+October 6-8, 2017
+
+---
+
+A private weekend event with the premise of an intergalactic peace
+summit, participants were invited to come representing the best their planet has
+to offer.
+
+### Highlights and Participants
+
+Pablo came as the interpreter for the royal dignitary in his hands (think of
+C-3PO):
+
+<div class="caption-img-block" style="margin: 25px auto">
+<a href="/img/the-summit/pablo_alien_emissary.jpg" target="blank">
+<img src="/img/the-summit/pablo_alien_emissary_THUMB.jpg" alt="A royal, held by their interpreter. Click for full size." style="margin: 15px auto;" />
+</a>
+</div>
+
+To activate the various translation modes, it came with [an instruction
+manual][1] (PDF).
+
+### Invitation email:
 
 ```
 On the 13898th Galactic Rotation of the Trifid Nebula, the following
@@ -66,3 +90,4 @@ END COMMUNICATION
 ```
 
 
+   [1]: /files/the-summit/protocol_bot_instruction_manual.pdf
