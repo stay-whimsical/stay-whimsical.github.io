@@ -5,7 +5,7 @@
 
 cp -R build .tmp
 git checkout master
-cp -R .tmp/* ./*
+cp -R .tmp/* ./
 git add ./*.html
 git add 2018/*
 git add feeds/*
