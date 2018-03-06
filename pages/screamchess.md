@@ -30,10 +30,10 @@ chess.</p>&mdash; chris person (@Papapishu) <a href="https://twitter.com/Papapis
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
    [1]: https://github.com/stay-whimsical/screamchess
-   [2]: /files/screamchess/king_kill.wav
-   [3]: /files/screamchess/bishop_move.wav
-   [4]: /files/screamchess/knight_kill.wav
-   [5]: /files/screamchess/pawn_move.wav
-   [6]: /files/screamchess/other_pawn_move.wav
+   [2]: /files/screamchess/king_kill.mp3
+   [3]: /files/screamchess/bishop_move.mp3
+   [4]: /files/screamchess/knight_kill.mp3
+   [5]: /files/screamchess/pawn_move.mp3
+   [6]: /files/screamchess/other_pawn_move.mp3
    [7]: https://www.raspberrypi.org/
    [8]: https://opencv.org/
