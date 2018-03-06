@@ -6,10 +6,7 @@
 cp -R build .tmp
 git checkout master
 cp -R .tmp/* ./
-git add ./*.html
-git add 2018/*
-git add feeds/*
-git add tags/*
+git add ./*.html 2018/* feeds/* tags/* static/*
 git commit -am "Today's commit"
 git push origin master
 rm -rf .tmp
