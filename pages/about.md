@@ -3,7 +3,8 @@
 Stay Whimsical is
 
 <div class="profile-card">
-<strong>Karen Castelletti</strong>
+<img src="/img/2018/3/karen_headshot.png" alt="Photo of Karen Castelletti." style="margin: 15px auto;" />
+<p class="card-name">Karen Castelletti</p>
 
 After 5 years at Google on Search, Karen followed her mischief muse, cultivated
 as a hacker at MIT, and started several successful companies. She is currently
@@ -12,7 +13,8 @@ managing the transfer of power of her latest sale-hacking venture,
 </div>
 
 <div class="profile-card">
-<strong>Sara Drakeley</strong>
+<img src="/img/2018/3/sara_headshot.png" alt="Photo of Sara Drakeley." style="margin: 15px auto;" />
+<p class="card-name">Sara Drakeley</p>
 
 MIT math whiz-turned artist, Sara architected procedural geometry
 (snow, <a href="https://dl.acm.org/citation.cfm?id=2927469">trees</a>,
@@ -22,7 +24,8 @@ curiosity about financial markets and embark on more personal art projects.
 </div>
 
 <div class="profile-card">
-<strong><a href="https://morepablo.com">Pablo Meier</a></strong>
+<img src="/img/2018/3/pablo_headshots.jpg" alt="Photo of Pablo Meier." style="margin: 15px auto;" />
+<p class="card-name"><a href="https://morepablo.com">Pablo Meier</a></p>
 
 Pablo left Brown with degrees in Computer Science and Music to build
 Easter eggs (and whatever he was told) at several companies in the subsequent
