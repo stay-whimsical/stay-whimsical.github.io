@@ -526,3 +526,17 @@ blockquote p {
   display: block;
   margin: 15px auto;
 }
+
+
+/*                                                   Profile cards */
+
+.profile-card img {
+  display: block;
+  max-width: 250px;
+  margin: 20px auto;
+}
+
+.profile-card .card-name {
+  font-weight: bold;
+  text-align: center;
+}
